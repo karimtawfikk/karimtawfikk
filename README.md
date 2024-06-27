@@ -2,12 +2,16 @@
 <h3 align="center">A dedicated computer science student</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karim-tawfik2004"
-  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karimtawfik" height="30" width="40" /></a>
-  
-  
+  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karimtawfik" height="30" width="40" /></a> <a href="[https://www.linkedin.com/in/karim-tawfik2004](https://leetcode.com/u/karimtawfik/)"
+  target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="karimtawfik" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/karimtawfik481"
+  target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="karimtawfik" height="30" width="40" /></a>
+
+
+
 
 </p>
 
