@@ -11,7 +11,6 @@
 <img src="https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Core.png" alt="html5" width="40" height="40"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="html5" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karimtawfikk&show_icons=true&locale=en&layout=compact" alt="karimtawfikk" /></p>
 
 
 <h3 align="left">Socials:</h3>
