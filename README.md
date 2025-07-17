@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
 <h3 align="center">Senior AI Student</h3>
 
-<h4 align="center"> Ain Shams University </h4>
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
