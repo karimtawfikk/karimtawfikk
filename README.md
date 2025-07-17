@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
-<h3 align="center">A dedicated computer science student</h3>
+<h3 align="center">Senior AI Student</h3>
 
 <h4 align="center"> Ain Shams University </h4>
 
